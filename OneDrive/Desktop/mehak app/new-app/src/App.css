@@ -13,6 +13,12 @@ a {
   color: unset;
   text-decoration: none;
 }
+.anagram{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
 
 .gradient__bg {
   background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
